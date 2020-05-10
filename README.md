@@ -13,7 +13,7 @@ AALU is a cloud-based intelligent virtual agent to solve the common customer iss
 ## Natural Language Processing (NLP)
 NLP primarily comprises of natural language understanding (human to machine) and natural language generation (machine to human).
 
-### IBM Cloud Serivces
+### IBM Cloud Service
    `IBM Watson` is used for semantic analysis, tone analyzation and reply generation. Its model was trained for domain-specific knowledge. Currently, the bot can answer queries that apropos a university setting including registering for a course, dropping a course, asking for help, etcetera.  
 
 ### Small Talk
