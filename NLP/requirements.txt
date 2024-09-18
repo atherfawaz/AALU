@@ -6,7 +6,7 @@ python_dateutil>=2.5.3
 websocket-client==0.48.0
 ibm_cloud_sdk_core==1.5.1
 
-setuptools==45.2.0
+setuptools==70.0.0
 nltk==3.9
 numpy==1.16.1
 keras==2.13.1
